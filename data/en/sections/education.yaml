@@ -1,0 +1,32 @@
+# section information
+section:
+  name: Education
+  id: education
+  template: sections/education.html # Use "sections/education-alt.html for alternate template.
+  enable: true
+  weight: 4
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+degrees:
+- name: Ingénieur Polytechnicien
+  icon: fa-microscope
+  timeframe: 2007-2010
+  institution:
+    name: Polytechnic School of Tunisia
+    url: "http://www.ept.rnu.tn/"
+
+- name: Concours Préparatoire de mathématiques et physique
+  icon: fa-university
+  timeframe: 2005-2007
+  institution:
+    name: Institut préparatoire aux études scientifiques et techniques
+    url: "http://www.ipest.rnu.tn/"
+  
+- name: Baccalauréat
+  icon: fa-school
+  timeframe: 2001-2005
+  institution:
+    name: Lycée Mohaemed Ali Sfax
+

@@ -1,0 +1,73 @@
+# section information
+section:
+  name: A propos
+  id: about
+  enable: true
+  weight: 1
+  showOnNavbar: true
+  template: sections/about.html
+
+# your designation
+designation: Ingénieur Développement Senior / DevOps
+# your company information
+
+
+# your resume. this file path should be relative to you "static" directory
+# Dreprecated. Use resourceLinks instead.
+# resume: "files/resume.pdf"
+
+# a summary about you
+summary: 'Je suis un ingénieur informatique avec une expérience de 12 ans. Je développe des applications Web.
+ Je travaille sur des projets open source Blockchain et Rust'
+
+# your social links
+# give as many as you want. use font-awesome for the icons.
+socialLinks:
+- name: Email
+  icon: "fas fa-envelope"
+  url: "haythem.rouis@gmail.com"
+
+- name: Github
+  icon: "fab fa-github"
+  url: "https://www.github.com/hrouis"
+
+- name: Stackoverflow
+  icon: "fab fa-stack-overflow"
+  url: "https://stackoverflow.com/users/7053196/haythem-rouis"
+
+- name: LinkedIn
+  icon: "fab fa-linkedin"
+  url: "https://fr.linkedin.com/in/haythemrouis"
+
+
+# You can put custom buttons to link your relevant resources.
+# For example, you can put link for your resume.
+resourceLinks:
+- title: "Mon CV"
+  url: "files/resume.pdf"
+
+# Show your badges
+# You can show your verifiable certificates from https://www.credly.com.
+# You can also show a circular bar indicating the level of expertise on a certain skill
+badges:
+- type: certification
+  name: Oracle Certified Java Programmer
+  url: "https://www.credly.com/org/oracle/badge/oracle-certified-professional-java-se-8-programmer"
+  badge: "https://images.credly.com/size/340x340/images/3e1a7290-fade-4be4-9bcd-1a7743294a81/Oracle_Professional_Badge__1_.png"
+
+
+- type: soft-skill-indicator
+  name: Team Work
+  percentage: 90
+  color: yellow
+
+- type: soft-skill-indicator
+  name: Hard Working
+  percentage: 90
+  color: blue
+
+# you can also provide color code instead of the color name
+# - type: soft-skill-indicator
+#   name: Example 1
+#   percentage: 75
+#   color: "#00adb5"

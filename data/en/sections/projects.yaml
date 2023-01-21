@@ -1,0 +1,32 @@
+# section information
+section:
+  name: Projects
+  id: projects
+  enable: true
+  weight: 5
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+
+# your projects
+projects:
+
+- name: Rusty Coin
+  logo:
+  role: Owner
+  timeline: "Sept 2022 - Present"
+  repo: https://github.com/hrouis/rusty-coin
+  #url: ""
+  summary: Bitcoin principles / concepts implementation in Rust.
+  tags: ["hobby", "blockchain"]
+
+- name: Go BabelNet
+  logo:
+  role: Owner
+  timeline: "Mars 2019 - Present"
+  repo: https://github.com/hrouis/go-babelnet
+  #url: ""
+  summary: A Golang SDK for babelnet API.
+  tags: ["hobby"]
+

@@ -1,0 +1,65 @@
+# section information
+section:
+  name: Compétences
+  id: skills
+  enable: true
+  weight: 2
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# Your Skills.
+# Give a summary of you each skill in the summary section.
+skills:
+- name: Java
+  logo: /images/sections/skills/java.png
+  summary: "Utilisé comme langage principal pour les développement professionnels. Capable d'écrire des microservices
+  scalables, testables et maintenables en utilisant Spring Cloud ou Micronaut"
+  
+- name: Angular
+  logo: /images/sections/skills/angular.png
+  summary: "Utilisé pour écrire des applications web Front Office"
+
+- name: Python
+  logo: /images/sections/skills/python.png
+  summary: "Utilisé pour implémenter un outil de benchmarking dans un contexte professionnel à l'aide de la librairie Locust.
+  Utilisé également sur des projets personnels comme un Bot de Trading et un gestionnaire de portefeuille d'actions."
+
+- name: Docker
+  logo: /images/sections/skills/docker.svg
+  summary: "Les apllications Back et Front sont déployés dans des containers Docker pour le développement."
+  url: "https://www.docker.com/"
+
+- name: Ansible
+  logo: /images/sections/skills/ansible.png
+  summary: "Ecrire des playbooks pour déployer les microservices dans divers environnements."
+
+- name: Kubernetes
+  logo: /images/sections/skills/kubernetes.png
+  summary: "Déployer, gérer des applications avec Kubernetes."
+  url: "https://kubernetes.io/"
+
+- name: Rust
+  logo: /images/sections/skills/rust.png
+  summary: "A l'aise avec le langage Rust.  Contributions au projet open source rust-bitcoin."
+
+- name: Cloud Computing
+  logo: /images/sections/skills/cloud.png
+  summary: "Principalement de l'OpenStack. A l'aise avec la plupart des clouds comme GCP, AWS, Azure etc."
+
+- name: Jenkins
+  logo: /images/sections/skills/jenkins.png
+  summary: "Configuration des pipelines CI /CD avec Jenkins."
+
+- name: Linux
+  logo: /images/sections/skills/linux.png
+  summary: "Utilisé comme le système d'opérations principal. Capable d'écrire des scripts bash/shell."
+
+- name: Git
+  logo: /images/sections/skills/git.png
+  summary: "Expérience avec les gestionnaires de ressources basés sur git. Principalement du Gitlab. Egalemet du Github pour les pojets open source"
+  url: "https://git-scm.com/"
+
+- name: C++
+  logo: /images/sections/skills/c++.png
+  summary: "Connaissance basique des langages C/C++. Utilisé pour programmer les terminaux de paiement"

@@ -1,0 +1,20 @@
+# section information
+section:
+  name: Accomplissements
+  id: accomplishments
+  enable: true
+  weight: 8
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+
+# Your accomplishments
+accomplishments:
+- name: The Rust programming Language
+  timeline: "Décembre 2022 - Janvier 2023"
+  organization:
+    name: Udemy
+    url: https://www.udemy.com
+  courseOverview: Ce cours vous apprendra les bases de Rust, un langage de programmation moderne qui possède à la fois la puissance du code natif et la sécurité de certains langages gérés. 
+  certificateURL: "https://www.udemy.com/certificate/UC-69f63513-3103-4c08-972d-2e8efee96f1c/"

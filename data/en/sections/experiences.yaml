@@ -1,0 +1,88 @@
+# section information
+section:
+  name: Experiences
+  id: experiences
+  enable: true
+  weight: 3
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true 
+
+
+# Your experiences
+experiences:
+- company:
+    name: Deveryware
+    url: "https://deveryware.com"
+    location: Paris
+    # company overview
+    overview: Deveryware est l'expert français des technologies d'investigation et des services pour la sécurité globale.
+  positions:
+  - designation: Ingénieur Développement Sénior
+    start: Mai 2017
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    # end: Dec 2020
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - Architecture technique
+    - Conception et implémentation d'une solution d'analyse de fichiers de communications
+    - Conception et implémentation d'un outil de benchmark.
+    - Développement et maintenance de la solution de géolocalisation des mobiles et balises.
+    - Revue du code de l'équipe
+    - Implémentation des scripts de déploiement de la solution dans l'ensemble des environnements.
+
+
+- company:
+    name: BNP Paribas Personal Finance
+    url: "https://personal-finance.bnpparibas"
+    location: Suresnes
+    overview: BNP Paribas PF est un leader du financement aux particuliers en Europe au travers de son offre de crédits à la consommation.
+  positions:
+  - designation: Ingénieur Développement Sénior
+    start: Juin 2015
+    end: May 2017
+    responsibilities:
+    - Conception fonctionnelle/ technique du service de composition FIPEN pour les crédits automobiles 
+    - Conception et implémentation du service de relance des prospects.
+    - Suivi et validation technique des développements
+
+- company:
+    name: EDF
+    url: "https://www.edf.fr/groupe-edf/edf-en-bref/optimisation-et-trading"
+    location: Ingénieur Etude et Développement
+    overview: EDF Trading prévoit prévoit la demande énergétique et effectue les arbitrages nécessaires entre les ressources disponibles pour la satisfaire.
+  positions:
+  - designation: Ingénieur Etude et Développement
+    start: Mars 2014
+    end: Juin 2015
+    responsibilities:
+    - Coneception et implémentation d'une solution d'optimisation des coûts de production énergétique
+    - Revue du code
+
+- company:
+    name: Bouygues Telecom
+    url: "https://www.bouyguestelecom.fr/"
+    location: Ingénieur Etude et Développement
+    overview: ISIS est une plateforme d'intégration de services (SDP) faisant le lien entre des plateformes réseau, services, le Système d'Information, et des partenaires extérieurs.
+  positions:
+  - designation: Ingénieur Etude et Développement
+    start: Septembre 2012
+    end: Mars 2014
+    responsibilities:
+    - Conception et implémentation des services de gestion des SMS / micropaiement
+    - Test, packaging et livraison
+
+- company:
+    name: Vermeg
+    url: "https://www.bouyguestelecom.fr/"
+    location: Ingénieur Etude et Développement
+    overview:  Vermeg Palmyra est une plateforme qui sert à générer des applications financières se basants sur des descriptions métiers.
+  positions:
+  - designation: Ingénieur Etude et Développement
+    start: Février 2010
+    end: Août 2012
+    responsibilities:
+    - Conception et implémentation des générateurs de code
+    - Conception et implémentation du générateur de rapports financiers
+    - Conception et implémentation des connecteurs de formats XML, XLS
+    - Test, packaging et livraison
