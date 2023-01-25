@@ -10,23 +10,23 @@ section:
   # hideTitle: true
 
 degrees:
-- name: Ingénieur Polytechnicien
+- name: Polytechnic Engineer
   icon: fa-microscope
   timeframe: 2007-2010
   institution:
     name: Polytechnic School of Tunisia
     url: "http://www.ept.rnu.tn/"
 
-- name: Concours Préparatoire de mathématiques et physique
+- name: Mathematics and Physics entrance Exam
   icon: fa-university
   timeframe: 2005-2007
   institution:
-    name: Institut préparatoire aux études scientifiques et techniques
+    name: IPEST
     url: "http://www.ipest.rnu.tn/"
   
-- name: Baccalauréat
+- name: Bachelor degree
   icon: fa-school
   timeframe: 2001-2005
   institution:
-    name: Lycée Mohaemed Ali Sfax
+    name: Mohaemed Ali High School
 

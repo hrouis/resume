@@ -39,7 +39,7 @@ experiences:
   positions:
   - designation: Ingénieur Développement Sénior
     start: Juin 2015
-    end: May 2017
+    end: Mai 2017
     responsibilities:
     - Conception fonctionnelle/ technique du service de composition FIPEN pour les crédits automobiles 
     - Conception et implémentation du service de relance des prospects.
@@ -48,8 +48,8 @@ experiences:
 - company:
     name: EDF
     url: "https://www.edf.fr/groupe-edf/edf-en-bref/optimisation-et-trading"
-    location: Ingénieur Etude et Développement
-    overview: EDF Trading prévoit prévoit la demande énergétique et effectue les arbitrages nécessaires entre les ressources disponibles pour la satisfaire.
+    location: Paris
+    overview: EDF Trading prévoit la demande énergétique et effectue les arbitrages nécessaires entre les ressources disponibles pour la satisfaire.
   positions:
   - designation: Ingénieur Etude et Développement
     start: Mars 2014
@@ -61,7 +61,7 @@ experiences:
 - company:
     name: Bouygues Telecom
     url: "https://www.bouyguestelecom.fr/"
-    location: Ingénieur Etude et Développement
+    location: Velizy
     overview: ISIS est une plateforme d'intégration de services (SDP) faisant le lien entre des plateformes réseau, services, le Système d'Information, et des partenaires extérieurs.
   positions:
   - designation: Ingénieur Etude et Développement
@@ -74,7 +74,7 @@ experiences:
 - company:
     name: Vermeg
     url: "https://www.bouyguestelecom.fr/"
-    location: Ingénieur Etude et Développement
+    location: Tunis
     overview:  Vermeg Palmyra est une plateforme qui sert à générer des applications financières se basants sur des descriptions métiers.
   positions:
   - designation: Ingénieur Etude et Développement
