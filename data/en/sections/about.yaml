@@ -16,7 +16,7 @@ designation: Senior Software Engineer
 # resume: "files/resume.pdf"
 
 # a summary about you
-summary: 'I am a passionate software engineer with x years of working experience. I built OSS tools for [Kubernetes](https://kubernetes.io/) using GO. My tools help people to deploy their workloads in Kubernetes. Sometimes, I work on some fun projects such as writing a theme, etc.'
+summary: I am a passionnate software engineer with 12 years experience. I work mainly on web applications. I also work on Blockchain and Rust open source projects during my spare time.
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
@@ -41,7 +41,7 @@ socialLinks:
 # For example, you can put link for your resume.
 resourceLinks:
 - title: "My Resume"
-  url: "files/resume.pdf"
+  url: "files/resume_fr.pdf"
 
 # Show your badges
 # You can show your verifiable certificates from https://www.credly.com.
